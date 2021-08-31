@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sudan Gas</string>
+    <string name="gasoline" translatable="false">جاز</string>
+    <string name="line_length" translatable="false">طول الصف</string>
+    <string name="notes" translatable="false">ملاحظات</string>
+    <string name="benzene" translatable="false">بنزين</string>
+    <string name="tanker_time" translatable="false">زمن التنكر</string>
+    <string name="ok" translatable="false">تم</string>
+    <string name="cancel" translatable="false">إلغاء</string>
+    <string name="location" translatable="false">الموقع</string>
+    <string name="station_name" translatable="false">إسم المحطة</string>
+    <string name="save" translatable="false">حفظ</string>
+    <string name="available">متوفر</string>
+    <string name="not_available">غير متوفر</string>
+</resources>

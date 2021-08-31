@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Sudan Gas</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="attention">الرجاء إدخال بيانات صحيحة</string>
+
+    <string name="URL">http://192.168.220.1/Sudan%20Gas</string>
+    <string name="_null">NULL</string>
+    <string name="gasoline" translatable="false">Gasoline</string>
+    <string name="line_length" translatable="false">Line Length</string>
+    <string name="notes" translatable="false">Notes</string>
+    <string name="benzene" translatable="false">Benzene</string>
+    <string name="tanker_time" translatable="false">Tanker Time</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="cancel" translatable="false">CANCEL</string>
+    <string name="location" translatable="false">Location</string>
+    <string name="station_name" translatable="false">Station Name</string>
+    <string name="save" translatable="false">save</string>
+    <string name="available" translatable="false">available</string>
+    <string name="not_available" translatable="false">not available</string>
+
+</resources>
